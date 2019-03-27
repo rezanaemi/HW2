@@ -17,8 +17,6 @@
     height: 600px;
 }
 
-
-
 @media only screen and (max-width: 1500px) {
   #grid-float .grid-item:nth-child(1){
     grid-column: 1 / 3;
